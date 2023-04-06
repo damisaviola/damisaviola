@@ -20,6 +20,7 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>
     <img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white"/>
     <img src="https://img.shields.io/badge/FIFA-B7312F?style=for-the-badge&logo=fifa&logoColor=white"/>
+       <img src="https://img.shields.io/badge/Origin-148EFF?style=for-the-badge&logo=origin&logoColor=white"/>
 
 ## :link: Links
 
