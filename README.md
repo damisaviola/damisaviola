@@ -7,16 +7,15 @@ Then i recorded my screen to gif on Mac with Quicktime  and save result to [asse
 This [gist](https://gist.github.com/tskaggs/6394639) help me to create a dedicated command that convert MOV to GIF.
 Type this command `make generate-gif` to generate [assets/github.gif](assets/github.gif)
 -->
+# Hi there 👋 , Dami disini! 
 
-## :memo: Blog
-
-<!-- BLOG-POST-LIST:START -->
-- [Changer de gestionnaire de mot de passe](https://blog.darkwood.fr/article/changer-de-gestionnaire-de-mot-de-passe)
-- [NoCode avec le projet Capsule Corp](https://blog.darkwood.fr/article/nocode-avec-le-projet-capsule-corp)
-- [Utiliser VSCode à distance](https://blog.darkwood.fr/article/utiliser-vscode-a-distance)
-- [Crypto Tracker](https://blog.darkwood.fr/article/crypto-tracker)
-- [Self-host n8n with AWS Lightsail, pm2 and caddy server](https://blog.darkwood.fr/article/self-host-n8n-with-aws-lightsail-pm2-and-caddy-server)
-<!-- BLOG-POST-LIST:END -->
+### Tools:
+<p>
+    <img src="https://img.shields.io/badge/OS-MacOS-blue?&logo=apple" />
+    <img src="https://img.shields.io/badge/Code-Swift-blue?&logo=swift" />
+    <img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" />
+    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
+    <img src="https://gpvc.arturio.dev/bagusfe" />
 
 ## :link: Links
 
