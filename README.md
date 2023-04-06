@@ -28,6 +28,5 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
   <a href="https://www.facebook.com/dami-maturbongs"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
   <a href="https://www.instagram.com/damisaviola"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
   <a href="https://www.twitch.tv/damisaviola"><img src="https://img.icons8.com/color/96/000000/twitch--v2.png" alt="twitch"/></a>
-  <a href="https://keybase.io/matyo91"><img src="https://img.icons8.com/windows/96/000000/keybase2.png" alt="keybase"/></a>
   <a href="https://steamcommunity.com/id/damimaturbongs"><img src="https://img.icons8.com/fluent/96/000000/steam.png" alt="steam"/></a>
-  <a href="https://open.spotify.com/user/dami-maturbongs"><img src="https://img.icons8.com/color/96/000000/spotify--v1.png" alt="spotify"/></a>
+  <a href="https://open.spotify.com/user/damimaturbongs?si=bdd62ff8b127484f"><img src="https://img.icons8.com/color/96/000000/spotify--v1.png" alt="spotify"/></a>
