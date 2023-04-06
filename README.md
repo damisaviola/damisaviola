@@ -11,7 +11,7 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 
 ### Tools:
 <p>
-    <img src"https://img.shields.io/badge/youtube-damisaviola-blue">
+    <img src"https://img.shields.io/badge/youtube-damisaviola-blue"/>
     <img src="/github/followers/:user?label=Follow"/>
     <img src="https://img.shields.io/badge/Code-Swift-blue?&logo=swift" />
     <img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" />
