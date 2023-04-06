@@ -11,11 +11,13 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 
 ### Tools:
 <p>
-    <img src="https://img.shields.io/badge/youtube-damisaviola-blue"/>
     <img src="/github/followers/:user?label=Follow"/>
     <img src="https://img.shields.io/badge/Code-Swift-blue?&logo=swift" />
     <img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" />
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
+    
+ ### Gaming:
+    <p>
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>
     <img src ="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white"/>
 
