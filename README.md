@@ -16,6 +16,7 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
     <img src="https://aleen42.github.io/badges/src/photoshop.svg"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     
 ### Gaming:
    <p>
