@@ -19,4 +19,4 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 
 #
 
-<p align="center" [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=damisaviola)](https://github.com/damisaviola/github-readme-stats)
+<p align="center" [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=damisaviola)](https://github.com/damisaviola/github-readme-stats) >
