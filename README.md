@@ -8,6 +8,8 @@ This [gist](https://gist.github.com/tskaggs/6394639) help me to create a dedicat
 Type this command `make generate-gif` to generate [assets/github.gif](assets/github.gif)
 -->
 # Hi there 👋 , Dami disini! 
+<p> Akun Github bang tolong di pollow
+ <hr>
 <ul>
     <li> Mahasiswa Sistem Informasi '22</li>
 </ul>
