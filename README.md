@@ -15,6 +15,8 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
  <li> Timika, Papua </li>
  <li>:derelict_house: diy </li>     
 </ul>
+<p contact 
+   <a href = "mailto: damimaturbongs.com">Kirim Email</a>
 
 #
 
