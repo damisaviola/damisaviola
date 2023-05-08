@@ -10,12 +10,10 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 # Hi there 👋 , Dami disini! 
 <p> Akun Github bang tolong di pollow
 <ul>
+ <li>:indonesia: </li>
  <li> Sistem Informasi '22</li>
  <li> Timika, Papua </li>
- <li>:derelict_house: diy </li>
- <li>:location: diy </li>
- <li>:indonesia: </li>
-     
+ <li>:derelict_house: diy </li>     
 </ul>
 
 #
