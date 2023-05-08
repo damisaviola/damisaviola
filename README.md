@@ -16,3 +16,5 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
  <li>:indonesia: </li>
      
 </ul>
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyGriffith&langs_count=8&count_private=false&layout=compact&theme=react&hide_border=true&bg_color=0D1117
