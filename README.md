@@ -8,10 +8,11 @@ Sistem Informasi '22<br>Timika, Papua<br>Diy
 
 
 # 📊 GitHub Stats:
-[!spotify-github-profile(https://spotify-github-profile.vercel.app/api/view?uid=damimaturbongs&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=damimaturbongs&redirect=true)
 ![](https://github-readme-stats.vercel.app/api?username=damisaviola&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=damisaviola&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=damisaviola&theme=dark&hide_border=true)<br/>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=damimaturbongs&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=damisaviola&icon=0&color=0)](https://visitcount.itsvg.in)
