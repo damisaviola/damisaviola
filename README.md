@@ -13,5 +13,9 @@ Sistem Informasi '22<br>Timika, Papua<br>Diy
 ---
 [![](https://visitcount.itsvg.in/api?id=damisaviola&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
