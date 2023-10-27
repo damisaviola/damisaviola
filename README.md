@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sistem Informasi '22<br>Timika, Papua<br>Diy
+<br>Timika, Papua<br>Diy
 
 
 ## 🌐 Socials:
